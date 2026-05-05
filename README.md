@@ -1,0 +1,2 @@
+# LotTrade-Bot
+discord bot
