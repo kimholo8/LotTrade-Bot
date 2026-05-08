@@ -256,4 +256,4 @@ class CustomTicketView(discord.ui.View):
         await it.response.send_message(f"📩 티켓: {ch.mention}", ephemeral=True)
         await ch.send(view=TicketCloseView())
 
-bot.run("MTUwMDcyNTk3ODYxNDIwMjQ1MA.G3ayoY.3ykNpVGmXHxZhsxtbUarxUnyO0-zdGqmNmXfuY")
+bot.run("봇 토큰")
